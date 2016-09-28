@@ -5,7 +5,7 @@ A modified version of IDA CGC Loader Module from idabook.com
 Original link: http://idabook.com/cgc/cgc_ldr.tgz
 
 ---
-Rebuild til and add base function F.L.I.R.T support.
+Rebuild til and add F.L.I.R.T support.
 
 Use `tilib -c -hlibcgc.h -hlibpov.h -Ccg -v -t"Default CGC Type Library" cgc.til` to create new til file.
 
